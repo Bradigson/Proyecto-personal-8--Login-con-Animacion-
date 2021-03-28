@@ -1,0 +1,86 @@
+body{
+    background-color:#283747 ;
+}
+div{
+    background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+    width:500px;
+    height:300px;
+    position:relative;
+    margin:auto;
+    top:100px;
+    border-radius:10px;
+
+}
+div h1{
+    color:white;
+    padding-left:30px;
+    padding-top:20px;
+}
+form{
+    background-color:#283747;
+    width:200px;
+    height:100;
+    position:relative;
+    left:476px;
+    bottom:140px;
+    padding-left:30px;
+    padding-right:240px;
+    padding-bottom:60px;
+    opacity:.9;
+
+    
+}
+.form__input1, .form__input2{
+    margin-top:30px;
+    line-height:2;
+    padding-right:50px;
+    border-radius:5px;
+    border:1px solid white;
+    padding-left:5px;
+}
+.form__input1:hover{
+    margin-top:30px;
+    line-height:2;
+    padding-right:50px;
+    border-radius:5px;
+    border:1px solid white;
+    padding-left:5px;
+    background:#283747;
+
+}
+.form__input2:hover{
+    margin-top:30px;
+    line-height:2;
+    padding-right:50px;
+    border-radius:5px;
+    border:1px solid white;
+    padding-left:5px;
+    background:#283747;
+
+}
+
+.form__boton{
+    padding-right:20px;
+    padding-left:20px;
+    line-height: 2;
+    border-radius:5px;
+    border:1px solid white;
+}
+
+.form__boton:hover{
+    padding-right:20px;
+    padding-left:20px;
+    line-height: 2;
+    border-radius:5px;
+    border:1px solid white;
+    background:#283747;
+    color:white;
+}
+
+label{
+    color:white;
+    
+}
+.form__radio{
+    margin-left:40px;
+}
